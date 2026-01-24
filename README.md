@@ -1,16 +1,20 @@
-## Hi there 👋
+# Reservation System
 
-<!--
-**witek171/witek171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Enterprise-grade scheduling, reservation, and staff management platform.
 
-Here are some ideas to get you started:
+![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-Database-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Reservation System** is a comprehensive SaaS platform designed to streamline scheduling, reservations, and workforce management for service-based businesses.
+
+### Links 
+
+full documentation, screenshots & setup inside:
+
+**Backend:** 
+https://github.com/witek171/reservation-system-backend
+**Frontend:**
+https://github.com/witek171/reservation-system-frontend
+
