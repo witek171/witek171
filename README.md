@@ -11,13 +11,22 @@ Personal full-stack web application SaaS project - actively developed
 **Reservation System** is an enterprise-grade platform designed to streamline complex scheduling processes, automate reservations, and enhance staff management for service-based organizations.
 
 **Links** (full documentation, screenshots & setup inside):
+<table style="border: none; border-collapse: collapse;">
+<tr>
+<td style="border: none; vertical-align: top; padding-right: 30px;">
 
-**Backend:** 
-https://github.com/witek171/reservation-system-backend
+<strong>Backend:</strong><br>
+https://github.com/witek171/reservation-system-backend<br><br>
 
-**Frontend:**
+<strong>Frontend:</strong><br>
 https://github.com/witek171/reservation-system-frontend
 
-<p align="center">
-  <img width="400" height="219" alt="Image" src="https://github.com/user-attachments/assets/938236e9-174d-4e52-8afe-4c77f445fc7b" />
-</p>
+</td>
+<td style="border: none; vertical-align: top;">
+
+<img src="https://github.com/user-attachments/assets/938236e9-174d-4e52-8afe-4c77f445fc7b" 
+     width="300" alt="Reservation System Screenshot"/>
+
+</td>
+</tr>
+</table>
