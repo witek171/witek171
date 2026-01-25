@@ -1,4 +1,4 @@
-Personal SaaS project - actively developed
+Personal full-stack web application SaaS project - actively developed
 
 # Reservation System
 
@@ -17,3 +17,7 @@ https://github.com/witek171/reservation-system-backend
 
 **Frontend:**
 https://github.com/witek171/reservation-system-frontend
+
+<p align="center">
+  <img width="1080" height="1080" alt="Image" src="https://github.com/user-attachments/assets/176eaada-53f3-434c-84c9-48b975c3e497" />
+</p>
