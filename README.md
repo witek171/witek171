@@ -12,10 +12,12 @@ Personal full-stack web application SaaS project - actively developed
 
 **Links** (full documentation, screenshots & setup inside):
 
-<img align="right" src="https://github.com/user-attachments/assets/938236e9-174d-4e52-8afe-4c77f445fc7b" height="220" width="470" alt="Reservation System Screenshot"/>
+<img align="right" src="https://github.com/user-attachments/assets/938236e9-174d-4e52-8afe-4c77f445fc7b" height="194" width="430" alt="Reservation System Screenshot"/>
 
 **Backend:**  
+
 https://github.com/witek171/reservation-system-backend
 
 **Frontend:**  
+
 https://github.com/witek171/reservation-system-frontend
