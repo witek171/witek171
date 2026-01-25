@@ -19,5 +19,5 @@ https://github.com/witek171/reservation-system-backend
 https://github.com/witek171/reservation-system-frontend
 
 <p align="center">
-  <img width="1080" height="1080" alt="Image" src="https://github.com/user-attachments/assets/176eaada-53f3-434c-84c9-48b975c3e497" />
+  <img width="400" height="219" alt="Image" src="https://github.com/user-attachments/assets/938236e9-174d-4e52-8afe-4c77f445fc7b" />
 </p>
