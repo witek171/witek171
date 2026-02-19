@@ -12,9 +12,7 @@
 
 **Listing Monitor** is a real-time real estate aggregation platform designed to consolidate property listings from multiple portals and deliver instant notifications when new offers matching user criteria become available *(Source code private)*.
 
-<p align="center">
-  <img width="808" height="440" alt="Image" src="https://github.com/user-attachments/assets/0b4acf8e-3e80-43c3-8e2b-18ba910b210a" />
-</p>
+<img width="808" height="440" alt="Image" src="https://github.com/user-attachments/assets/3658c99b-bcc6-422a-a2c3-505ddb5210b8"/>
 
 ### Reservation System
 
