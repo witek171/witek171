@@ -4,7 +4,7 @@
 
 **Listing Monitor** is a real-time real estate aggregation platform designed to consolidate property listings from multiple portals and deliver instant notifications when new offers matching user criteria become available *(Source code private)*.-->
 
-### Reservation System (ASP.NET Core, React, MS SQL SERVER)
+### Reservation System (ASP.NET Core, React, MS SQL Server)
 
 **Reservation System** is a platform designed to streamline complex scheduling processes, automate reservations, and enhance staff management for service-based organizations.
 
