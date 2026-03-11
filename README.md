@@ -8,7 +8,7 @@
 
 **Bookium** is a SaaS reservation system designed to streamline complex scheduling processes, automate reservations, and enhance staff management for service-based organizations.
 
-**Landing Page with Demo:** [bookium.pl](www.bookium.pl)
+**Landing Page with Demo:** [bookium.pl](https://bookium.pl)
 
 #### **Links** (full documentation inside):
 
