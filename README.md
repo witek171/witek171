@@ -1,10 +1,4 @@
-## Personal full-stack application - project actively developed:
-
-<!--### Listings Monitor
-
-**Listing Monitor** is a real-time real estate aggregation platform designed to consolidate property listings from multiple portals and deliver instant notifications when new offers matching user criteria become available *(Source code private)*.-->
-
-### Bookium (ASP.NET Core, React, MS SQL Server)
+### Full-Stack Application (ASP.NET Core, React, MS SQL Server)
 
 **Bookium** is a SaaS reservation system designed to streamline complex scheduling processes, automate reservations, and enhance staff management for service-based organizations.
 
