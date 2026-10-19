@@ -1,11 +1,7 @@
-### Full-Stack Application (ASP.NET Core, React, MS SQL Server)
+## Cześć!
 
-**Bookium** is a SaaS reservation system designed to streamline complex scheduling processes, automate reservations, and enhance staff management for service-based organizations.
+Tworzę agregator ofert nieruchomości, który powiadamia użytkowników o ofertach spełniających ich kryteria.
 
-**Landing Page with Demo:** [bookium.pl](https://bookium.pl)
+C# · .NET 10 · Python · Next.js · PostgreSQL · PostGIS · CQRS · RabbitMQ · SignalR
 
-#### **Links** (full documentation inside):
-
-**Backend:** [github.com/witek171/reservation-system-backend](https://github.com/witek171/reservation-system-backend)
-
-**Frontend:** [github.com/witek171/reservation-system-frontend](https://github.com/witek171/reservation-system-frontend)
+🔗 **[github.com/property-aggregator](https://github.com/property-aggregator)**
